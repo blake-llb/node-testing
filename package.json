@@ -1,0 +1,27 @@
+{
+  "name": "node-testing",
+  "version": "0.0.1",
+  "description": "node api testing",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blake-llb/node-testing.git"
+  },
+  "engines": {
+    "node": " >=0.11"
+  },
+  "keywords": [
+    "node-testing-blake"
+  ],
+  "author": "blake",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~3.2.0",
+    "express-session": "latest",
+    "cookie-parser": "latest",
+    "ejs": "latest"
+  }
+}
